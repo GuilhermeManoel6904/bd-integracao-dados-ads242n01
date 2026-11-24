@@ -11,7 +11,7 @@
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
 | Guilherme Manoel| 2387020 | GuilhermeManoel6904|
-|  |  |  |
+| camila pinheiro | 2417715 | Camila.pinheiro0910 |
 
 ## O cenário
 
