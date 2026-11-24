@@ -10,7 +10,7 @@
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
+| Guilherme Manoel| 2387020 | GuilhermeManoel6904|
 |  |  |  |
 
 ## O cenário
